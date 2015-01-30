@@ -146,7 +146,6 @@ a:active {
   box-sizing: border-box;
 }
 
-
 .left-menu {
   background: #222;
   width: 200px;
@@ -192,8 +191,9 @@ ul li:hover {
   font-size: 20px;
   font-family: 'Calligraffitti', cursive;
 }
-.logo i {
-  font-size: 70px;
+
+.logo a {
+  text-decoration: none;
   color: #FFF;
 }
 
